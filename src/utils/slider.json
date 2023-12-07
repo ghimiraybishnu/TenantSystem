@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "New Baneshwor Apartment",
+    "price": "47,000",
+    "detail": "Kathmandu City Street, Kathmandu, Nepal (Near Civil Hospital)",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Kanak Apartment",
+    "price": "20,353",
+    "detail": "Budanilkantha ward 12 Kathmandu Nepal (Near Ganesh Chowk)",
+    "image": "./public/kanak.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Butwal City  Garden",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Tilottama ward 2 Yogikuti Nepal (Near Tilottama Campus)",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Lumbini Villa",
+    "price": "65,043",
+    "detail": "Lumbini, Rupandehi Nepal (Near Gautam Buddha Intl Airpot)",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Arusiya Apartment",
+    "price": "16,353",
+    "detail": "Arusiya Apartment Kathmandu. Boudhanath Marg, Kathmandu, Nepal. Hotels-kathmandu >. Unrated Ramhiti, Kathmandu 44600",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Vacation rentals in Budhanilkantha",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Kathmandu City Street, Kathmandu, Nepal (Near Civil Hospital)",
     "image": "./r3.png"
   }
 ]

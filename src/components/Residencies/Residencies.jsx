@@ -3,7 +3,7 @@ import {Swiper, SwiperSlide, useSwiper} from 'swiper/react'
 import "swiper/css"
 import './Residencies.css'
 import data from '../../utils/slider.json'
-
+import { sliderSetting } from '../../utils/common'
 
 const Residencies = () => {
   return (
@@ -14,7 +14,8 @@ const Residencies = () => {
             <span className='primaryText'>Popular Redincies</span>
             </div>
 
-<Swiper>
+<Swiper {...sliderSetting}>
+    <SliderButton/>
 {
    data.map((card, i)=> (
     <SwiperSlide key={i}>
@@ -42,3 +43,13 @@ const Residencies = () => {
 }
 
 export default Residencies
+
+const SliderButton = ()=> {
+    const swiper = useSwiper(); 
+    return(
+        <div className="flexCenter r-buttons">
+            <button onClick={()=> swiper.slidePrev()}>&lt;</button>
+            <button onClick={()=> swiper.slideNext()}>&gt;</button>
+        </div>
+    );
+};
